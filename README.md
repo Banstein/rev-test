@@ -1,6 +1,5 @@
 # Review-test
-Mobile version and setup of the figma design showing my skills of creating successful websites.
-
+Repo for testing my reviewing skill
 ## Built With
 
 - HTML
